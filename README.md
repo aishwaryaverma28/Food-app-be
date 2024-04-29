@@ -1,8 +1,8 @@
-<!-- # 🌐 FoodFire Server
+# 🌐 FoodApp Server
 
-A FoodFire Server (Node.js web server) that fetches data from a third-party (Swiggy) API (Fix the CORS Issue) and exposes it to a client [🚀 FoodFire ](https://foodfire-app.netlify.app/) App 😍.
+A FoodApp Server (Node.js web server) that fetches data from a third-party (Swiggy) API (Fix the CORS Issue) and exposes it to a client [🚀 FoodApp ](https://662f933204b09d0e8be82fa1--candid-haupia-469a3d.netlify.app/) App 😍.
 
-🍁 [FoodFire App](https://foodfire-app.netlify.app/) is part of [Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) and Github Repository for this App is [Namaste-React 💜](https://github.com/chetannada/Namaste-React) ️
+🍁 [FoodApp App](https://662f933204b09d0e8be82fa1--candid-haupia-469a3d.netlify.app/) is part of frontend project and Github Repository for this App is [(https://github.com/aishwaryaverma28/food_app_react) 💜]
 <br/>
 ## 🔥 Clone this Repository
 
@@ -15,7 +15,7 @@ You need to write the following commands on the terminal screen(in vscode) so th
 Go to the project directory
 
 ```bash
-  cd FoodFire-Server
+  cd Food-app-be
 ```
 
 Install dependencies
@@ -32,7 +32,7 @@ Start the server
 
 This application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
-💫 Test the FoodFire Server Locally in your FoodFire React App then use this domain name (`http://localhost:3000/`) if the Server is running on a `3000` Port:
+💫 Test the FoodApp Server Locally in your FoodApp React App then use this domain name (`http://localhost:3000/`) if the Server is running on a `3000` Port:
 ```javascript
 const response =  await fetch(`http://localhost:3000/api/restaurants?lat=12.9351929&lng=77.62448069999999&page_type=DESKTOP_WEB_LISTING`)
 
@@ -40,8 +40,8 @@ const data = await response.json();
 ```
 
 
-## 🔮 Deploy the FoodFire server
-Once you have tested the FoodFire server locally, you can deploy it to a production environment by following these steps.
+## 🔮 Deploy the FoodApp server
+Once you have tested the FoodApp server locally, you can deploy it to a production environment by following these steps.
 
 1. Create an account on [Render](https://render.com/) if you haven't already.
 2. Click on the `New +` button and select `Web Service` from the dropdown menu.
@@ -58,6 +58,4 @@ const response =  await fetch(`http://YourOwnServerName.onrender.com/api/restaur
 
 ## 🔗 Let's Connect
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555) -->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-verma28/)
