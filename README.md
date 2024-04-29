@@ -1,4 +1,4 @@
-# 🌐 FoodFire Server
+<!-- # 🌐 FoodFire Server
 
 A FoodFire Server (Node.js web server) that fetches data from a third-party (Swiggy) API (Fix the CORS Issue) and exposes it to a client [🚀 FoodFire ](https://foodfire-app.netlify.app/) App 😍.
 
@@ -9,7 +9,7 @@ A FoodFire Server (Node.js web server) that fetches data from a third-party (Swi
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-  git clone "https://github.com/chetannada/FoodFire-Server.git"
+  git clone "https://github.com/aishwaryaverma28/Food-app-be"
 ```
 
 Go to the project directory
@@ -60,4 +60,4 @@ const response =  await fetch(`http://YourOwnServerName.onrender.com/api/restaur
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555) -->
